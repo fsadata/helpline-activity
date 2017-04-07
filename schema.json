@@ -1,0 +1,109 @@
+{
+	"fields": [
+		{
+			"name": "Date",
+			"title": "Date",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#date",
+				"datePattern": "%Y-%m"
+			}
+		},
+		{
+			"name": "CallsReceived",
+			"title": "Calls received by the helpline",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#int"
+			}
+		},
+		{
+			"name": "CallsAnsweredDirectly",
+			"title": "Calls answered directly by the helpline",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#int"
+			}
+		},
+		{
+			"name": "CallsAnsweredKPITarget",
+			"title": "Calls answered meeting helpline KPI targets",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#int"
+			}
+		},
+		{
+			"name": "CallsForwardedToPolicy",
+			"title": "Calls forwarded to the Policy team",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#int"
+			}
+		},
+		{
+			"name": "SocialMediaMessages",
+			"title": "Social media messages received by the helpline",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#int"
+			}
+		},
+		{
+			"name": "MessagesAnsweredDirectly",
+			"title": "Messages answered directly by the helpline",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#int"
+			}
+		},
+		{
+			"name": "MessagesAnsweredKPITarget",
+			"title": "Messages answered meeting helpline KPI targets",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#int"
+			}
+		},
+		{
+			"name": "MessagesForwardedToPolicy",
+			"title": "Messages forwarded to the Policy team",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#int"
+			}
+		},
+		{
+			"name": "EmailsReceived",
+			"title": "Emails received by the helpline",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#int"
+			}
+		},
+		{
+			"name": "EmailsAnsweredDirectly",
+			"title": "Emails answered directly by the helpline",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#int"
+			}
+		},
+		{
+			"name": "EmailsAnsweredKPITarget",
+			"title": "Emails answered meeting helpline KPI targets",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#int"
+			}
+		},
+		{
+			"name": "EmailsForwardedToPolicy",
+			"title": "Emails forwarded to the Policy team",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#int"
+			}
+		}
+	]
+}
