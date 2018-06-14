@@ -1,13 +1,13 @@
 Date,CallsReceived,CallsAnsweredDirectly,CallsAnsweredKPITarget,CallsForwardedToPolicy,SocialMediaMessages,MessagesAnsweredDirectly,MessagesAnsweredKPITarget,MessagesForwardedToPolicy,EmailsReceived,EmailsAnsweredDirectly,EmailsAnsweredKPITarget,EmailsForwardedToPolicy
-2016-01,1022,1005,1005,402,25,25,25,0,550,264,411,286
-2016-02,1129,1111,1111,481,48,48,48,0,641,302,467,339
-2016-03,1163,1155,1155,427,33,33,33,0,678,277,405,290
-2016-04,1082,1076,1076,391,24,24,24,0,636,272,441,310
-2016-05,922,903,903,332,14,12,12,2,578,254,404,278
-2016-06,1071,1049,1049,408,30,30,26,4,478,206,298,230
-2016-07,1017,937,937,303,22,22,22,0,492,243,344,184
-2016-08,1061,1037,1037,397,35,35,28,7,558,246,367,251
-2016-09,1068,1049,1049,407,30,30,26,4,497,208,304,230
-2016-10,1019,993,993,409,19,17,17,2,1128,232,353,859
-2016-11,953,918,918,327,30,30,30,0,524,263,414,151
-2016-12,718,710,70,253,36,33,33,3,312,127,134,187
+2017-01,986,977,977,366,8,8,8,0,571,206,399,281
+2017-02,871,849,849,297,23,23,23,0,521,235,485,250
+2017-03,974,936,936,322,11,11,11,0,644,273,269,315
+2017-04,634,628,628,232,12,12,12,0,648,231,331,194
+2017-05,822,806,806,283,12,12,12,0,530,254,381,237
+2017-06,860,841,841,292,Helpline no longer recording social media data,Helpline no longer recording social media data,Helpline no longer recording social media data,Helpline no longer recording social media data,495,222,340,225
+2017-07,838,827,827,302,Helpline no longer recording social media data,Helpline no longer recording social media data,Helpline no longer recording social media data,Helpline no longer recording social media data,518,209,330,249
+2017-08,903,879,879,325,Helpline no longer recording social media data,Helpline no longer recording social media data,Helpline no longer recording social media data,Helpline no longer recording social media data,535,208,330,266
+2017-09,793,782,782,270,Helpline no longer recording social media data,Helpline no longer recording social media data,Helpline no longer recording social media data,Helpline no longer recording social media data,504,215,357,236
+2017-10,863,847,847,281,Helpline no longer recording social media data,Helpline no longer recording social media data,Helpline no longer recording social media data,Helpline no longer recording social media data,589,241,273,269
+2017-11,884,869,869,244,Helpline no longer recording social media data,Helpline no longer recording social media data,Helpline no longer recording social media data,Helpline no longer recording social media data,501,220,315,220
+2017-12,545,534,534,177,Helpline no longer recording social media data,Helpline no longer recording social media data,Helpline no longer recording social media data,Helpline no longer recording social media data,333,155,231,151
